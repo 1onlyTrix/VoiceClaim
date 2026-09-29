@@ -114,7 +114,7 @@ Iwant you to build complete proper beautiful clean and modern frontend for this.
 
 ## Product Requirements Document — Hackathon MVP
 
-**Event:** LabLab.ai Hackathon, August 3–10, 2026  
+**Event:** Build with Bharat 4.0 Hackathon, 10-11 oct, 2026  
 
 **Product:** VoiceClaim Auditor  
 
