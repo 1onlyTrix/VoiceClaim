@@ -1,6 +1,6 @@
-# Claim Weaver
+# VoiceClaim 
 
-VoiceClaim is a TanStack Start application that transcribes live or uploaded speech, extracts atomic factual claims, and streams evidence-backed verification results while speech continues. The production service path uses Speechmatics, Bright Data Web MCP, and AI/ML API. The original product requirements are retained below as the product appendix.
+VoiceClaim is a web application that transcribes live or uploaded speech, extracts atomic factual claims, and streams evidence-backed verification results while speech continues. The production service path uses Speechmatics, Bright Data Web MCP, and AI/ML API. The original product requirements are retained below as the product appendix.
 
 ## Local setup
 
